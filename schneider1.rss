@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN"
+ "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+
+<!DOCTYPE foo [<!ENTITY toreplace "3"> ]>
+
+<rss version="0.91">
+
+ <channel>
+  <title>ui</title>
+  <link>http://tecfa.unige.ch/tecfa-people/schneider.rss</link>
+  <description>Some links provided by Daniel Schneider</description>
+  <language>fr</language>
+  <webMaster>Daniel.Schneider@tecfa.unige.ch</webMaster>
+  <image>
+   <title>DKS</title>
+   <url>http://tecfa.unige.ch/tecfa-people/schneider2.gif</url>
+   <link>http://tecfa.unige.ch/tecfa-people/schneider.rss</link>
+  </image>
+  <item>
+   <title>Home Page de Daniel Schneider</title>
+   <link>http://tecfa.unige.ch/tecfa-people/schneider.html</link>
+   <description>Cette page renvoie à mes publications, exposés, cours et quelques bonnes informations.</description>
+  </item>
+  <item>
+   <title>STAF 14 : Bases techniques des systèmes d'information et de communication</title>
+   <link>http://tecfa.unige.ch/tecfa/teaching/staf14/staf14-overview.html</link>
+  </item>
+ </channel>
+</rss>
